@@ -1,0 +1,15 @@
+/.idea
+/core/__pycache__
+/utils/__pycache__
+/views/__pycache__
+/drowsy_images
+/repository/__pycache__
+/db/__pycache__
+/services/__pycache__
+app.db
+.vscode
+/__pycache__
+/tmp_dataset
+/runs
+*.pt
+/assets
